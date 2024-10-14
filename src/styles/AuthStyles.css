@@ -1,4 +1,4 @@
-/* ===================================
+ /* ===================================
 ========= register page  */
 .form-container {
     display: flex;
@@ -12,7 +12,7 @@
   
   .form-container form {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    padding: 20px;
+    padding: 40px;
     background-color: #fff;
   }
   
@@ -51,3 +51,7 @@
       #000000
     ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   }
+
+   .mb-3{
+    color: red;
+   } 
